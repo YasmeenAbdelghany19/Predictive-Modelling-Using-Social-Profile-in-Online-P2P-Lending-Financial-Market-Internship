@@ -1,9 +1,0 @@
-numpy
-pandas
-matplotlib
-seaborn
-sklearn
-scikit-learn
-joblib
-bz2file
-fastapi
