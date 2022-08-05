@@ -1,0 +1,9 @@
+pandas
+joblib
+bz2file
+fastapi
+sklearn
+scikit-learn
+uvicorn
+gunicorn
+python-multipart
