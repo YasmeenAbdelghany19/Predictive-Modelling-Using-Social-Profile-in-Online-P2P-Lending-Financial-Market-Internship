@@ -6,4 +6,4 @@ sklearn
 scikit-learn
 uvicorn
 gunicorn
-python-multipart
+matplotlib
